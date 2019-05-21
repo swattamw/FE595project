@@ -1,0 +1,11 @@
+Contribution by Shreyas Wattamwar
+
+1. Sentimental analysis setup
+Undertook the research for Sentiment analysis and ways to implement for the project based on source of data
+
+2. Vader Sentimental analysis setup
+VADER package is very useful in sentiment analysis on social- media posts(which is FB in our our project) as it also includes punctuation emoji's. 
+
+3. Run sentimental analysis
+Ran the sentiment analysis on the collected post from FB and exported results for Comparison between ATT and T-mobile
+ 
